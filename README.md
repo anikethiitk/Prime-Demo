@@ -1,2 +1,2 @@
 # Prime-Demo
-thus is a demo for git and github class
+thus is a demo for git and github class.
